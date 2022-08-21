@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-envelope"
-      url: "mailto:mmotah4@lsu.edu"
+      url: <A HREF="mailto:mmotah4@lsu.edu">linkText</A>
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/meysam-motaharfar-12b181110/"
