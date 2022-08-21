@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD Student @ Louisiana State University"
   links:
-    - label: "Email"
+    - label: "mmotah4@lsu.edu"
       icon: "fas fa-envelope"
       url: "mailto:mmotah4@lsu.edu"
     - label: "Linkedin"
