@@ -64,16 +64,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "https://"
+      url: "mailto:mmotah4@lsu.edu"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/meysam-motaharfar-12b181110/"
     - label: "Researchgate"
       icon: "fab fa-researchgate"
-      url: "https://instagram.com/"
+      url: "https://www.researchgate.net/profile/Meysam-Motaharfar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/meysam-motaharfar"
  
 
 footer:
@@ -83,10 +83,10 @@ footer:
       url: "https://www.linkedin.com/in/meysam-motaharfar-12b181110/"
     - label: "researchgate"
       icon: "fab fa-researchgate"
-      url: "https://instagram.com/"
+      url: "https://www.researchgate.net/profile/Meysam-Motaharfar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/meysam-motaharfar"
    
 
 defaults:
