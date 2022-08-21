@@ -63,7 +63,7 @@ author:
   bio    : "PhD Student @ Louisiana State University"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-envelope"
       url: "mailto:mmotah4@lsu.edu"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
