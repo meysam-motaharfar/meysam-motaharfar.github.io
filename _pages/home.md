@@ -15,10 +15,10 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/WI.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Research"
+    excerpt: "Learn more about my research"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
