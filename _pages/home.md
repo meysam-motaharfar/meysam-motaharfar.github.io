@@ -6,8 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+excerpt: 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
