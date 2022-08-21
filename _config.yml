@@ -63,7 +63,7 @@ author:
   bio    : "PhD Student @ Louisiana State University"
   links:
     - label: "Email"
-      icon: "fab fa-envelope"
+      icon: "fas fa-envelope"
       url: "https://"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
