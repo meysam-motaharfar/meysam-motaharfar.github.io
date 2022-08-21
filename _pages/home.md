@@ -22,7 +22,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/Talk.jpg
     alt: "100% free"
     title: "Talks"
     excerpt: "Have a look at talks I gave"
