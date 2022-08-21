@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/pendulum.jpeg
   actions:
 excerpt: >
-  The career of a young theoretical physicist consists of treating the harmonic oscillator in ever-increasing levels of abstraction.<br />
+  The career of a young theoretical physicist consists of treating the harmonic oscillator in ever-increasing levels of abstraction.      Sidney Coleman <br />
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "customizable"
@@ -19,14 +19,14 @@ feature_row:
   - image_path: /assets/images/WI.png
     alt: "fully responsive"
     title: "Research"
-    excerpt: "Learn more about my research"
+    excerpt: "Learn more about my research."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/Talk.jpg
     alt: "100% free"
     title: "Talks"
-    excerpt: "Have a look at talks I gave"
+    excerpt: "Have a look at talks I gave."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
